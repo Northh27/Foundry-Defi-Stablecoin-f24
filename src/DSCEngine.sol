@@ -9,7 +9,7 @@ import {AggregatorV3Interface} from "@chainlink/contracts/src/v0.8/interfaces/Ag
 
 /**
  * @title DSCEngine
- * @author Patrick Collins
+ * @author Carlos Sanchez
  *
  * The system is designed to be as minimal as possible, and have the tokens maintain a 1 token == $1 peg at all times.
  * This is a stablecoin with the properties:
